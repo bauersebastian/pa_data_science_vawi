@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1710188214929
+current_stage: None
+description: ''
+last_updated_timestamp: 1710188214929
+name: nn_model
+run_id: edabb39f566c49ecbf04de6155872fbf
+run_link: ''
+source: mlflow-artifacts:/163340762039646540/edabb39f566c49ecbf04de6155872fbf/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/163340762039646540/edabb39f566c49ecbf04de6155872fbf/artifacts/model
+user_id: null
+version: 14

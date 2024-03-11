@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/64450f75daf94077b88396d3d9bedf72/artifacts
+end_time: 1710187252548
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: 64450f75daf94077b88396d3d9bedf72
+run_name: ambitious-stork-68
+run_uuid: 64450f75daf94077b88396d3d9bedf72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710187245966
+status: 3
+tags: []
+user_id: sebastian

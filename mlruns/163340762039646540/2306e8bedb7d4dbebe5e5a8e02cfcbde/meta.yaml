@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/2306e8bedb7d4dbebe5e5a8e02cfcbde/artifacts
+end_time: 1710187895332
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: 2306e8bedb7d4dbebe5e5a8e02cfcbde
+run_name: tasteful-eel-834
+run_uuid: 2306e8bedb7d4dbebe5e5a8e02cfcbde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710187891073
+status: 3
+tags: []
+user_id: sebastian

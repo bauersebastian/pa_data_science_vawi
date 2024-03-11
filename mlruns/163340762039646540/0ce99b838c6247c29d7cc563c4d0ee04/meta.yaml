@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/0ce99b838c6247c29d7cc563c4d0ee04/artifacts
+end_time: 1710188524495
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: 0ce99b838c6247c29d7cc563c4d0ee04
+run_name: traveling-mink-907
+run_uuid: 0ce99b838c6247c29d7cc563c4d0ee04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710188520344
+status: 3
+tags: []
+user_id: sebastian

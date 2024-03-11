@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/e95631b9a9964e83a3808aa53b651b14/artifacts
+end_time: 1710187160392
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: e95631b9a9964e83a3808aa53b651b14
+run_name: nimble-snipe-528
+run_uuid: e95631b9a9964e83a3808aa53b651b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710187151407
+status: 3
+tags: []
+user_id: sebastian

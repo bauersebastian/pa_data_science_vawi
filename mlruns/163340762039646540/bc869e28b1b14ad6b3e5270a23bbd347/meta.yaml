@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/bc869e28b1b14ad6b3e5270a23bbd347/artifacts
+end_time: 1710188366460
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: bc869e28b1b14ad6b3e5270a23bbd347
+run_name: rumbling-slug-356
+run_uuid: bc869e28b1b14ad6b3e5270a23bbd347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710188362290
+status: 3
+tags: []
+user_id: sebastian

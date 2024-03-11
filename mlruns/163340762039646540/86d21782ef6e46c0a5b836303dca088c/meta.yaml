@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/86d21782ef6e46c0a5b836303dca088c/artifacts
+end_time: 1710188622989
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: 86d21782ef6e46c0a5b836303dca088c
+run_name: awesome-yak-280
+run_uuid: 86d21782ef6e46c0a5b836303dca088c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710188617910
+status: 3
+tags: []
+user_id: sebastian

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/d8ac3bc37a2b4a9c9e2c00d3039a9e48/artifacts
+end_time: 1710187232329
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: d8ac3bc37a2b4a9c9e2c00d3039a9e48
+run_name: delightful-boar-589
+run_uuid: d8ac3bc37a2b4a9c9e2c00d3039a9e48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710187227219
+status: 3
+tags: []
+user_id: sebastian

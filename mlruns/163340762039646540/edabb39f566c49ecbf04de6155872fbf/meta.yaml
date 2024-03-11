@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/edabb39f566c49ecbf04de6155872fbf/artifacts
+end_time: 1710188214952
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: edabb39f566c49ecbf04de6155872fbf
+run_name: rogue-goat-3
+run_uuid: edabb39f566c49ecbf04de6155872fbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710188210682
+status: 3
+tags: []
+user_id: sebastian

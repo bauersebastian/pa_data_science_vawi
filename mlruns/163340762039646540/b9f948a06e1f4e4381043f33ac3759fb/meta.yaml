@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/b9f948a06e1f4e4381043f33ac3759fb/artifacts
+end_time: 1710187848040
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: b9f948a06e1f4e4381043f33ac3759fb
+run_name: inquisitive-wolf-357
+run_uuid: b9f948a06e1f4e4381043f33ac3759fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710187843779
+status: 3
+tags: []
+user_id: sebastian

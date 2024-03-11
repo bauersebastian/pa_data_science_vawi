@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/b9cd9f783b8842abb4c30ba2d237f102/artifacts
+end_time: 1710187611908
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: b9cd9f783b8842abb4c30ba2d237f102
+run_name: silent-hog-630
+run_uuid: b9cd9f783b8842abb4c30ba2d237f102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710187604583
+status: 3
+tags: []
+user_id: sebastian

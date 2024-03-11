@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/9a6450d779184b81adbd3c47ed35e5ce/artifacts
+end_time: 1710187191970
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: 9a6450d779184b81adbd3c47ed35e5ce
+run_name: upbeat-perch-729
+run_uuid: 9a6450d779184b81adbd3c47ed35e5ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710187188281
+status: 3
+tags: []
+user_id: sebastian

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322843438524187995/e8c67fe4bae44d9fac787118c76c7893/artifacts
+end_time: 1710184130161
+entry_point_name: ''
+experiment_id: '322843438524187995'
+lifecycle_stage: active
+run_id: e8c67fe4bae44d9fac787118c76c7893
+run_name: trusting-grub-424
+run_uuid: e8c67fe4bae44d9fac787118c76c7893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710184128386
+status: 3
+tags: []
+user_id: sebastian
