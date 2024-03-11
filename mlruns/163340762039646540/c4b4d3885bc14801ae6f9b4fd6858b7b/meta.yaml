@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/c4b4d3885bc14801ae6f9b4fd6858b7b/artifacts
+deleted_time: 1709737567566
+end_time: 1709722854719
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: deleted
+run_id: c4b4d3885bc14801ae6f9b4fd6858b7b
+run_name: defiant-fly-151
+run_uuid: c4b4d3885bc14801ae6f9b4fd6858b7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709722846149
+status: 3
+tags: []
+user_id: sebastian

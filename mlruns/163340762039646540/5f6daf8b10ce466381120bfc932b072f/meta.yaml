@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/5f6daf8b10ce466381120bfc932b072f/artifacts
+end_time: 1709738038954
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: 5f6daf8b10ce466381120bfc932b072f
+run_name: colorful-fish-205
+run_uuid: 5f6daf8b10ce466381120bfc932b072f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709738029771
+status: 3
+tags: []
+user_id: sebastian

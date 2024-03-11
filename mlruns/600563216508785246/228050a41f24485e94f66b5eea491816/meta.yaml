@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/600563216508785246/228050a41f24485e94f66b5eea491816/artifacts
+end_time: 1709731020263
+entry_point_name: ''
+experiment_id: '600563216508785246'
+lifecycle_stage: active
+run_id: 228050a41f24485e94f66b5eea491816
+run_name: righteous-shrimp-539
+run_uuid: 228050a41f24485e94f66b5eea491816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709731019438
+status: 3
+tags: []
+user_id: sebastian

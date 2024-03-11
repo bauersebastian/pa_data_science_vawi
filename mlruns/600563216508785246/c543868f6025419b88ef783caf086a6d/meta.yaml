@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/600563216508785246/c543868f6025419b88ef783caf086a6d/artifacts
+end_time: 1709732873862
+entry_point_name: ''
+experiment_id: '600563216508785246'
+lifecycle_stage: active
+run_id: c543868f6025419b88ef783caf086a6d
+run_name: rogue-gull-737
+run_uuid: c543868f6025419b88ef783caf086a6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709732873095
+status: 3
+tags: []
+user_id: sebastian

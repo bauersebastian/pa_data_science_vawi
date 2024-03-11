@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/600563216508785246/67a0763b4cc64c28af909d2bd3e88f95/artifacts
+end_time: 1709737060211
+entry_point_name: ''
+experiment_id: '600563216508785246'
+lifecycle_stage: active
+run_id: 67a0763b4cc64c28af909d2bd3e88f95
+run_name: lyrical-crab-3
+run_uuid: 67a0763b4cc64c28af909d2bd3e88f95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709737059438
+status: 3
+tags: []
+user_id: sebastian

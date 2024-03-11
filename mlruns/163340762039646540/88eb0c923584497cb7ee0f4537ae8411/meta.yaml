@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/88eb0c923584497cb7ee0f4537ae8411/artifacts
+deleted_time: 1709737567566
+end_time: 1709731029806
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: deleted
+run_id: 88eb0c923584497cb7ee0f4537ae8411
+run_name: exultant-doe-274
+run_uuid: 88eb0c923584497cb7ee0f4537ae8411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709731020916
+status: 3
+tags: []
+user_id: sebastian

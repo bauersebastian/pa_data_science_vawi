@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/991867637235714373/8331f071adee4152baeee44ce5e5fd1f/artifacts
+deleted_time: 1709737342629
+end_time: 1709734950848
+entry_point_name: ''
+experiment_id: '991867637235714373'
+lifecycle_stage: deleted
+run_id: 8331f071adee4152baeee44ce5e5fd1f
+run_name: wistful-duck-75
+run_uuid: 8331f071adee4152baeee44ce5e5fd1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709734941506
+status: 3
+tags: []
+user_id: sebastian

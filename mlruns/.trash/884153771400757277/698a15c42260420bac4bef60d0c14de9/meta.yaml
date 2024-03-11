@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/884153771400757277/698a15c42260420bac4bef60d0c14de9/artifacts
+deleted_time: 1709737346286
+end_time: 1709734940831
+entry_point_name: ''
+experiment_id: '884153771400757277'
+lifecycle_stage: deleted
+run_id: 698a15c42260420bac4bef60d0c14de9
+run_name: serious-fox-943
+run_uuid: 698a15c42260420bac4bef60d0c14de9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709734939916
+status: 3
+tags: []
+user_id: sebastian

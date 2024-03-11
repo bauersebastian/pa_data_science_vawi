@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/322843438524187995/f94874e17b9849c29a15c2d96c6298e5/artifacts
+deleted_time: 1709720384664
+end_time: 1709720251239
+entry_point_name: ''
+experiment_id: '322843438524187995'
+lifecycle_stage: deleted
+run_id: f94874e17b9849c29a15c2d96c6298e5
+run_name: melodic-panda-748
+run_uuid: f94874e17b9849c29a15c2d96c6298e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709720251232
+status: 4
+tags: []
+user_id: sebastian

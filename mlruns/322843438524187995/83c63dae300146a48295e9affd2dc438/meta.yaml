@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322843438524187995/83c63dae300146a48295e9affd2dc438/artifacts
+end_time: 1709734939866
+entry_point_name: ''
+experiment_id: '322843438524187995'
+lifecycle_stage: active
+run_id: 83c63dae300146a48295e9affd2dc438
+run_name: kindly-frog-334
+run_uuid: 83c63dae300146a48295e9affd2dc438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709734938413
+status: 3
+tags: []
+user_id: sebastian

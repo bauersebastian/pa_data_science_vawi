@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/2a06f813a9ce4c8eb73af59f0c1713d0/artifacts
+deleted_time: 1709738706168
+end_time: 1709738184624
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: deleted
+run_id: 2a06f813a9ce4c8eb73af59f0c1713d0
+run_name: amazing-dolphin-545
+run_uuid: 2a06f813a9ce4c8eb73af59f0c1713d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709738184518
+status: 4
+tags: []
+user_id: sebastian

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/600563216508785246/5f24b3ebb3814bf4aabc5d915f53147d/artifacts
+end_time: 1709722674655
+entry_point_name: ''
+experiment_id: '600563216508785246'
+lifecycle_stage: active
+run_id: 5f24b3ebb3814bf4aabc5d915f53147d
+run_name: delightful-carp-115
+run_uuid: 5f24b3ebb3814bf4aabc5d915f53147d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709722673510
+status: 3
+tags: []
+user_id: sebastian

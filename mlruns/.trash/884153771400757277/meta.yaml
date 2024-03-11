@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/884153771400757277
+creation_time: 1709734939913
+experiment_id: '884153771400757277'
+last_update_time: 1709737346286
+lifecycle_stage: deleted
+name: Turnover Prediction per Employee - Ridge Regression
+tags: {}

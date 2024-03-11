@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/95013e9d6d4c4198887db6667076f9bc/artifacts
+deleted_time: 1709737567565
+end_time: 1709737319466
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: deleted
+run_id: 95013e9d6d4c4198887db6667076f9bc
+run_name: melodic-roo-427
+run_uuid: 95013e9d6d4c4198887db6667076f9bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709737310074
+status: 3
+tags: []
+user_id: sebastian
