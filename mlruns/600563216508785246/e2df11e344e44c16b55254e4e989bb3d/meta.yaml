@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/600563216508785246/e2df11e344e44c16b55254e4e989bb3d/artifacts
+end_time: 1711312943310
+entry_point_name: ''
+experiment_id: '600563216508785246'
+lifecycle_stage: active
+run_id: e2df11e344e44c16b55254e4e989bb3d
+run_name: rogue-bear-576
+run_uuid: e2df11e344e44c16b55254e4e989bb3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711312941778
+status: 3
+tags: []
+user_id: sebastian

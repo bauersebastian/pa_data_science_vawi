@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322843438524187995/3c72ae44537e46cdbc6b7d3e38e70f10/artifacts
+end_time: 1711743830717
+entry_point_name: ''
+experiment_id: '322843438524187995'
+lifecycle_stage: active
+run_id: 3c72ae44537e46cdbc6b7d3e38e70f10
+run_name: skillful-chimp-879
+run_uuid: 3c72ae44537e46cdbc6b7d3e38e70f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711743829069
+status: 3
+tags: []
+user_id: sebastian

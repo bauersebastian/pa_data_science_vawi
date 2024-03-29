@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/2c96d6d28ec64b578773421c8ad4a02b/artifacts
+end_time: 1711745423972
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: 2c96d6d28ec64b578773421c8ad4a02b
+run_name: welcoming-shark-535
+run_uuid: 2c96d6d28ec64b578773421c8ad4a02b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711745418241
+status: 3
+tags: []
+user_id: sebastian

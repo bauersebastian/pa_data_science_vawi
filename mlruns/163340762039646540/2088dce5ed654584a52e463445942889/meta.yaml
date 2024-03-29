@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/2088dce5ed654584a52e463445942889/artifacts
+end_time: 1711312961448
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: 2088dce5ed654584a52e463445942889
+run_name: upset-snail-246
+run_uuid: 2088dce5ed654584a52e463445942889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711312956715
+status: 3
+tags: []
+user_id: sebastian

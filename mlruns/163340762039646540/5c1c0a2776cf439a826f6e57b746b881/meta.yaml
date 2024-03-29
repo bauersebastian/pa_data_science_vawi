@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/5c1c0a2776cf439a826f6e57b746b881/artifacts
+end_time: 1711745658027
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: 5c1c0a2776cf439a826f6e57b746b881
+run_name: flawless-moth-486
+run_uuid: 5c1c0a2776cf439a826f6e57b746b881
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711745652427
+status: 3
+tags: []
+user_id: sebastian

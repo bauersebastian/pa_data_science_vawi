@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/9988b8f71d6647f48abe5bfce4d47d6c/artifacts
+end_time: 1711743859961
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: 9988b8f71d6647f48abe5bfce4d47d6c
+run_name: popular-fish-737
+run_uuid: 9988b8f71d6647f48abe5bfce4d47d6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711743855451
+status: 3
+tags: []
+user_id: sebastian

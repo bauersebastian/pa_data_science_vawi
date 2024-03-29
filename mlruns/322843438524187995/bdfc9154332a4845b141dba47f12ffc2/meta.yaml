@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322843438524187995/bdfc9154332a4845b141dba47f12ffc2/artifacts
+end_time: 1711312890156
+entry_point_name: ''
+experiment_id: '322843438524187995'
+lifecycle_stage: active
+run_id: bdfc9154332a4845b141dba47f12ffc2
+run_name: omniscient-bass-958
+run_uuid: bdfc9154332a4845b141dba47f12ffc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711312888315
+status: 3
+tags: []
+user_id: sebastian
