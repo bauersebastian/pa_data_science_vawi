@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163340762039646540/945b1b91a5274f71af909a74af306d9d/artifacts
+end_time: 1713610869094
+entry_point_name: ''
+experiment_id: '163340762039646540'
+lifecycle_stage: active
+run_id: 945b1b91a5274f71af909a74af306d9d
+run_name: handsome-donkey-617
+run_uuid: 945b1b91a5274f71af909a74af306d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713610864242
+status: 3
+tags: []
+user_id: sebastian

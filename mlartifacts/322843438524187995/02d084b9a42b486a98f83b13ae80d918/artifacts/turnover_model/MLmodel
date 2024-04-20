@@ -1,0 +1,32 @@
+artifact_path: turnover_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.0
+mlflow_version: 2.10.2
+model_size_bytes: 5725
+model_uuid: d86b85ea676c4bb7b514aa68f410336e
+run_id: 02d084b9a42b486a98f83b13ae80d918
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "Alter", "required": true}, {"type": "long",
+    "name": "Anzahl Kunden", "required": true}, {"type": "double", "name": "Auftragsbestand",
+    "required": true}, {"type": "double", "name": "Skill Level", "required": true},
+    {"type": "long", "name": "Kunden Kategorie", "required": true}, {"type": "double",
+    "name": "Bestandskunden", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-04-07 12:58:37.116701'

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1712494718700
+current_stage: None
+description: ''
+last_updated_timestamp: 1712494718700
+name: lr_model
+run_id: 02d084b9a42b486a98f83b13ae80d918
+run_link: ''
+source: mlflow-artifacts:/322843438524187995/02d084b9a42b486a98f83b13ae80d918/artifacts/turnover_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/322843438524187995/02d084b9a42b486a98f83b13ae80d918/artifacts/turnover_model
+user_id: null
+version: 20
